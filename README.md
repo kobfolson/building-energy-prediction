@@ -1,7 +1,7 @@
 # building-energy-prediction
 
 This is  the practical implementation for data preparation, modelling and visualisation
-of data that cam be obtained from: https://drive.google.com/file/d/1qmfnSTE3LoFkyEgW5EOsEQJJm6SrvADg/view?usp=sharing
+of data that can be obtained from: https://drive.google.com/file/d/1qmfnSTE3LoFkyEgW5EOsEQJJm6SrvADg/view?usp=sharing
 
 ###  Setting Up a Python Virtual Environment for Your ML Project
 
